@@ -1,7 +1,7 @@
 # Filename: p3.py
 # Author: Michael Bell
 # Date Created: 09/24/2022
-# Date Last Modified: 09/24/2022
+# Date Last Modified: 09/25/2022
 # Email: msb5390@gmail.com
 
 # From ProjectEuler.net
